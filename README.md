@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
-(https://www.figma.com/file/zNCXzmDZ8ytDMnYgkFkHKK/App?node-id=0%3A1)
+https://www.figma.com/file/zNCXzmDZ8ytDMnYgkFkHKK/App?node-id=0%3A1
 
 
 ![Tux, the Linux mascot](/assets/images/1.png)
